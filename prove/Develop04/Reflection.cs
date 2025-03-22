@@ -13,6 +13,7 @@ public class Reflection : MindfulnessActivity
     {
         "Why was this experience meaningful to you?",
         "How did you get started?"
+        
     };
     
     

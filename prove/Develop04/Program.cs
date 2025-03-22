@@ -7,6 +7,7 @@ class Program
         
         Console.Write("Enter the duration for the activity in seconds: ");
         int duration = int.Parse(Console.ReadLine());
+        
 
        
         ShowMenu(duration);

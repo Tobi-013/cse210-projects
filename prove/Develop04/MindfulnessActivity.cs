@@ -27,6 +27,7 @@ public class MindfulnessActivity
     {
         _name = name; 
     }
+    
 
     public void StartActivity()
     {

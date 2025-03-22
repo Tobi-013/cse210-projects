@@ -12,7 +12,7 @@ public class Breathing : MindfulnessActivity
         int timelapse = GetDuration();
         DateTime startTime = DateTime.Now;
         DateTime endTime = startTime.AddSeconds(timelapse);
-
+ 
         while (DateTime.Now < endTime)
         {
             Console.Write("\rBreathe in");

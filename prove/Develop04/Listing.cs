@@ -40,7 +40,7 @@ public class Listing:MindfulnessActivity
             
             int index = random.Next(_listingprompts.Count);
             string randomprompt = _listingprompts[index];
-            Console.Write("Get ready");
+            Console.Write("Get ready.");
             
 
             Console.WriteLine("List as many responses as you can to the following prompt:");
